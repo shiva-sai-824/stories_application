@@ -61,3 +61,10 @@ To get a local copy up and running, follow these simple steps:
     This will typically start the application on `http://localhost:5173`. Open this URL in your browser to view the app.
 
 ---
+---
+
+## Project Inspiration ✨
+
+This project is an implementation of the "Stories Feature" challenge from [**roadmap.sh/projects**](https://roadmap.sh). Original brief: [**roadmap.sh/projects/stories-feature**](https://roadmap.sh/projects/stories-feature).
+
+---
