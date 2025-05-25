@@ -6,7 +6,6 @@ It is a client-side web application delivering a modern "stories" experience, al
 
 **🚀 Live Demo:** [**stories-application-two.vercel.app**](https://stories-application-two.vercel.app)
 
-
 ---
 
 ## Core Features & Technical Highlights 🎯
@@ -39,3 +38,26 @@ It is a client-side web application delivering a modern "stories" experience, al
 
 ---
 
+## Getting Started / Run Locally 🚀
+
+To get a local copy up and running, follow these simple steps:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/shiva-sai-824/stories_application.git
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd stories_application
+    ```
+3.  **Install NPM packages:**
+    ```bash
+    npm install
+    ```
+4.  **Run the development server:**
+    ```bash
+    npm run dev
+    ```
+    This will typically start the application on `http://localhost:5173`. Open this URL in your browser to view the app.
+
+---
