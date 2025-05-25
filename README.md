@@ -1,6 +1,6 @@
-# MomentReel - Ephemeral Stories Web Application 📸✨
+# 24hr Story Feature 📸✨
 
-MomentReel is a client-side web application delivering a modern "stories" experience, allowing users to share ephemeral image-based content that automatically expires after 24 hours. This project demonstrates proficiency in building interactive and responsive user interfaces with contemporary frontend technologies.
+It is a client-side web application delivering a modern "stories" experience, allowing users to share ephemeral image-based content that automatically expires after 24 hours. This project demonstrates proficiency in building interactive and responsive user interfaces with contemporary frontend technologies.
 
 ---
 
@@ -39,4 +39,3 @@ MomentReel is a client-side web application delivering a modern "stories" experi
 
 ---
 
-*(Optional: Consider adding a "How to Run Locally" section if you want contributors or reviewers to easily set it up.)*
